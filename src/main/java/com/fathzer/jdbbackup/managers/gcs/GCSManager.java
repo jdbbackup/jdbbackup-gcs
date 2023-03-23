@@ -12,6 +12,7 @@ import com.google.cloud.storage.BlobInfo;
 import com.google.cloud.storage.Storage;
 import com.google.cloud.storage.StorageOptions;
 
+/** A Destination manager that saves to Google Cloud storage.*/
 public class GCSManager implements DestinationManager<BucketPath> {
 	private static final String PROXY_HOST_PROP = "https.proxyHost";
 	private static final String PROXY_PORT_PROP = "https.proxyPort";
