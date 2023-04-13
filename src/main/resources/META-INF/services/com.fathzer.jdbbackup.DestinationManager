@@ -1,1 +1,1 @@
-com.fathzer.jdbbackup.managers.gcs.GCSManager
+com.fathzer.jdbbackup.destinations.gcs.GCSManager

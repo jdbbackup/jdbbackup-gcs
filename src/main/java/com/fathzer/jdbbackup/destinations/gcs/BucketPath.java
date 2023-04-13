@@ -1,4 +1,4 @@
-package com.fathzer.jdbbackup.managers.gcs;
+package com.fathzer.jdbbackup.destinations.gcs;
 
 import java.util.function.Function;
 
